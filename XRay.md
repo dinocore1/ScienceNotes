@@ -17,7 +17,8 @@ $$
 $$
 
 $$ E = \frac{hc}{\lambda}  $$
+Where $hc$ is "Planks Constant"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NjUwNTkxLDgxMzc0MjU4OF19
+eyJoaXN0b3J5IjpbODI3ODEzMTYsODEzNzQyNTg4XX0=
 -->
