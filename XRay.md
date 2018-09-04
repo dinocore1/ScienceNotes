@@ -1,7 +1,7 @@
 # X-Ray Notes
 
 ## X-Ray Photons
-X-Rays have wavelength from 0.01 to 10 nanometers 
+X-Rays have wavelength from 0.01 to 10nm,  100ev - 100keV
 
 ## Interaction With Matter
 There are 6 different interactions the X-Ray photon can have with matter. They are:
@@ -23,6 +23,6 @@ $$ E = \frac{hc}{\lambda}  $$
 Where $hc$ is "Planks Constant"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg2MDcwMjcsMTg0MTA2Nzg2OSw4Mj
-c4MTMxNiw4MTM3NDI1ODhdfQ==
+eyJoaXN0b3J5IjpbMjk4MzA0OTg4LDE4NDEwNjc4NjksODI3OD
+EzMTYsODEzNzQyNTg4XX0=
 -->
